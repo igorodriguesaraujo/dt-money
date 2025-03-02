@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "create_at": "2025-03-02T13:20:34.496Z"
+    },
+    {
+      "id": "2",
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "create_at": "2025-03-02T11:24:34.496Z"
+    },
+    {
+      "id": "3",
+      "description": "Lanche de sexta",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 150,
+      "create_at": "2025-02-02T14:00:34.496Z"
+    },
+    {
+      "id": "66e6",
+      "description": "Passagem da semana",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 125,
+      "create_at": "2025-03-02T21:25:29.605Z"
+    },
+    {
+      "id": "8c11",
+      "description": "Venda do teclado",
+      "type": "income",
+      "category": "Venda",
+      "price": 500,
+      "create_at": "2025-03-02T21:26:03.862Z"
+    },
+    {
+      "id": "d1b2",
+      "description": "Cinema",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 250,
+      "create_at": "2025-03-02T21:28:06.309Z"
+    },
+    {
+      "id": "62f0",
+      "description": "Churrasco do final de semana",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 100,
+      "create_at": "2025-03-02T21:30:31.145Z"
+    },
+    {
+      "id": "85c6",
+      "description": "Empréstimo Nubank ",
+      "type": "income",
+      "category": "Empréstimo",
+      "price": 1000,
+      "create_at": "2025-03-02T21:36:15.598Z"
+    },
+    {
+      "id": "5495",
+      "description": "Testando",
+      "type": "income",
+      "category": "Teste",
+      "price": 1,
+      "create_at": "2025-03-02T21:53:49.220Z"
+    },
+    {
+      "id": "88b5",
+      "description": "Testando 2",
+      "type": "income",
+      "category": "Teste",
+      "price": 2,
+      "create_at": "2025-03-02T21:54:47.974Z"
+    }
+  ]
+}
